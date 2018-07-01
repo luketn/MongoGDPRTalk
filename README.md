@@ -13,3 +13,7 @@ Destroy the sharded cluster again using:
 ```
 
 \* These scripts work on a Mac/Linux environment. If you're a Windows user and want to include a version for that - send me a pull request!
+
+# Slides
+Find the slides here:
+https://slides.com/lthompson/mongodbgeosharding
